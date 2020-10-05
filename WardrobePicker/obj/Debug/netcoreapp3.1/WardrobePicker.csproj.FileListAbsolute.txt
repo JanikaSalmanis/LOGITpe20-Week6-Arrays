@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.exe
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.deps.json
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.dll
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\bin\Debug\netcoreapp3.1\WardrobePicker.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.dll
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.pdb
+C:\Users\opilane\source\repos\Week6Arrays\WardrobePicker\obj\Debug\netcoreapp3.1\WardrobePicker.genruntimeconfig.cache
